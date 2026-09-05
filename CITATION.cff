@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, data or code, please cite this repository and its accompanying manuscript (under review for the Journal of Computational Physics)."
+type: software
+title: "RRX: a crowdsourced Abaqus reproducibility benchmark"
+authors:
+  - family-names: Wei
+    given-names: Yuhan
+  - family-names: Balassa
+    given-names: Molly
+  - family-names: Sadowski
+    given-names: Adam J.
+repository-code: "https://github.com/SadowskiAJ/RRX_public"
+url: "https://github.com/SadowskiAJ/RRX_public"
+license: 0BSD
+keywords:
+  - computational reproducibility
+  - nonlinear finite element analysis
+  - shell buckling
+  - Abaqus
+  - discrete Frechet distance
+  - cluster analysis
