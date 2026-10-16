@@ -1,0 +1,38 @@
+# MATLAB working files; source data and published PNGs remain tracked.
+*.asv
+*.m~
+*.autosave
+*.bak
+*.mat
+*.fig
+*.log
+*.mex*
+slprj/
+codegen/
+.MATLABDriveTag
+
+# Outputs from new Abaqus runs, not benchmark inputs.
+*.odb
+*.sim
+*.sta
+*.msg
+*.dat
+*.com
+*.prt
+*.lck
+*.res
+*.mdl
+*.stt
+*.pac
+*.sel
+*.abq
+*.023
+Benchmark/*.csv
+abaqus.rpy*
+
+# Python and operating-system caches.
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
